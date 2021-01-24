@@ -1,0 +1,9 @@
+Data from this project was downloaded from the openstreetmap project using the Overpass API
+
+https://www.openstreetmap.org/export#map=12/35.6673/-97.407
+
+Location: Edmond, OK,USA
+
+<bounds minlat="35.7947" minlon="-97.6764" maxlat="35.5398" maxlon="-97.1373"/>
+
+I chose this location because I am familiar with the the names and features. I felt this would make it easier for me to find the inconsistancies in the data set.
